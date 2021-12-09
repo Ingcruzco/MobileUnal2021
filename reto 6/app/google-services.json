@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219543735823",
+    "project_id": "tic-tac-toe-game-f6a93",
+    "storage_bucket": "tic-tac-toe-game-f6a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219543735823:android:726c23ecbab72530831d7a",
+        "android_client_info": {
+          "package_name": "com.unal.triqui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219543735823-4ra2v06pl744j9c231ork288q2c4taou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2l1TFmThwvlrjQ6DZhK3HXFbUPYcI2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219543735823-4ra2v06pl744j9c231ork288q2c4taou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
