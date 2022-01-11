@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DirectoryEnterprise</string>
+    <string-array name="clasification">
+        <item>Consultoría</item>
+        <item>Desarrollo a la medida y/o fábrica de software</item>
+    </string-array>
+</resources>
